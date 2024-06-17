@@ -3,6 +3,7 @@ Overview
 This project focuses on exploring and analyzing the Pokemon dataset to classify whether a Pokemon is legendary or not based on various features. The dataset contains 23 columns comprising both numeric and categorical data, with 'isLegendary' serving as the target variable.
 
 Features
+
 Data Import and Visualization: Utilized libraries such as Pandas, NumPy, Matplotlib, Seaborn, Plotly for data manipulation, visualization, and missing data analysis.
 Univariate Analysis: Explored each column to gain insights into distributions and patterns within attributes like Type 1, Egg Group 1, Male Probability (Pr_Male), Body Style, Color, and more.
 Exploratory Data Analysis: Investigated correlations, distributions, and outliers for features like HP, Attack, Defense, Height, Weight, Mega Evolution, and Body Style.
@@ -13,6 +14,7 @@ Model Comparison: Compared the performance of different models based on cross-va
 
 
 Results
+
 Identified top features influencing a Pokemon's legendary status.
 Established insights into Pokemon types, attributes, and characteristics associated with low catch rates.
 Achieved high accuracy and AUC scores with machine learning models, demonstrating effective classification of legendary Pokemon.
