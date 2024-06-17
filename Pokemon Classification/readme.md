@@ -6,12 +6,17 @@ This project focuses on exploring and analyzing the Pokemon dataset to classify 
 
 Features
 
-Data Import and Visualization: Utilized libraries such as Pandas, NumPy, Matplotlib, Seaborn, Plotly for data manipulation, visualization, and missing data analysis.
+Data Import and Visualization: Utilized libraries such as Pandas, NumPy, Matplotlib, Seaborn, Plotly for data manipulation, visualization, and missing data analysis. 
+
 Univariate Analysis: Explored each column to gain insights into distributions and patterns within attributes like Type 1, Egg Group 1, Male Probability (Pr_Male), Body Style, Color, and more.
+
 Exploratory Data Analysis: Investigated correlations, distributions, and outliers for features like HP, Attack, Defense, Height, Weight, Mega Evolution, and Body Style.
+
 Statistical Analysis: Compared and visualized attributes such as Type, Egg Group, and Color among Pokemon with the lowest catch rates.
 Feature Engineering: Preprocessed data by handling missing values, encoding categorical variables, and scaling numeric features to prepare for machine learning models.
+
 Machine Learning Models: Implemented various classifiers including Logistic Regression, Random Forest, LGBM, XGBoost, and CatBoost, evaluated using K-fold cross-validation for accuracy and AUC scores.
+
 Model Comparison: Compared the performance of different models based on cross-validated accuracy and AUC scores.
 
 
