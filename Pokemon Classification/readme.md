@@ -1,5 +1,7 @@
 Pokemon Dataset Analysis and Classification
+
 Overview
+
 This project focuses on exploring and analyzing the Pokemon dataset to classify whether a Pokemon is legendary or not based on various features. The dataset contains 23 columns comprising both numeric and categorical data, with 'isLegendary' serving as the target variable.
 
 Features
