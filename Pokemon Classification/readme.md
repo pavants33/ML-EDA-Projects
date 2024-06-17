@@ -22,4 +22,5 @@ Established insights into Pokemon types, attributes, and characteristics associa
 Achieved high accuracy and AUC scores with machine learning models, demonstrating effective classification of legendary Pokemon.
 
 Conclusion
+
 This project provides a comprehensive analysis of Pokemon data, highlighting significant features and patterns using exploratory and predictive techniques. The results underscore the predictive capabilities of machine learning in distinguishing legendary Pokemon based on their attributes.
